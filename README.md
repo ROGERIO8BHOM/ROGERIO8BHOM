@@ -23,9 +23,6 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://discord.com/channels/@me/1229107575337910322" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=#cc3399&style=for-the-badge" height="32" alt="discord logo"  />
-  </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=withe&labelColor=#cc3399&style=for-the-badge" height="32" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=#cc3399&style=for-the-badge" height="32" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=#cc3399&style=for-the-badge" height="32" alt="twitch logo"  />
