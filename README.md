@@ -1,4 +1,4 @@
-<h2 align="left">Oi! 👋 Sou Rogério, também conhecido como ROGERIO8BHOM. 🤠</h2>
+<h2 align="left">Oi! 👋 Meu nome é Rogério, também conhecido como ROGERIO8BHOM. 🤠</h2>
 
 ###
 
