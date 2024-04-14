@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Minha paixão está no desenvolvimento de jogos, onde minha expertise se estende principalmente para a Unity, utilizando C# para criar experiências imersivas e envolventes. <br><br>Paralelamente, tenho uma sólida experiência em automação, especialmente em Python, onde desenvolvo soluções para facilitar processos e tornar tarefas mais eficientes. <br><br>Recentemente, iniciei minha jornada no mundo do Arduino, explorando projetos criativos que combinam hardware e software. <br><br>Se quiser conferir mais sobre meu trabalho, dê uma olhada no meu GitHub, onde compartilho alguns dos meus projetos e experimentos!</p>
+<p align="left">🎮 Minha paixão está no desenvolvimento de jogos, onde minha expertise se estende principalmente para a Unity, utilizando C# para criar experiências imersivas e envolventes. <br><br>🤖 Paralelamente, tenho uma sólida experiência em automação, especialmente em Python, onde desenvolvo soluções para facilitar processos e tornar tarefas mais eficientes. <br><br>🤖🔧 Recentemente, iniciei minha jornada no mundo do Arduino, explorando projetos criativos que combinam hardware e software. <br><br>Se quiser conferir mais sobre meu trabalho, dê uma olhada no meu GitHub, onde compartilho alguns dos meus projetos e experimentos!</p>
 
 ###
 
