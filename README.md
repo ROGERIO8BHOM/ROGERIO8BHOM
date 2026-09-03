@@ -27,3 +27,14 @@ Interests   : Programming, Reverse Engineering, Electronics
 Languages   : JavaScript, C#, C++, Python, Lua, SQL
 Focus       : Systems, Automation & Low-Level Programming
 ```
+### `$ github profile --info`
+
+> Building things.
+> Breaking things.
+> Understanding how things work.
+
+[+] Software Development
+[+] Reverse Engineering
+[+] Automation
+[+] Electronics
+[+] Low-Level Programming
