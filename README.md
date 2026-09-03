@@ -25,3 +25,4 @@ Role        : Software Engineer / Programmer
 Interests   : Programming, Reverse Engineering, Electronics
 Languages   : JavaScript, C++, Python, SQL
 Focus       : Systems, Automation & Low-Level Programming
+```
