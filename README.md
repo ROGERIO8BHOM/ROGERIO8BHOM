@@ -62,3 +62,10 @@ Technologies
 Currently learning
 └── Systems Analysis and Development
 ```
+
+### `$ exit`
+```
+Thanks for stopping by.
+
+Connection to github.com closed...
+```
