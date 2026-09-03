@@ -12,6 +12,6 @@
 </pre>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/ROGERIO8BHOM)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram)](https://instagram.com/rg_forest)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rg_forest)
 
 </div>
