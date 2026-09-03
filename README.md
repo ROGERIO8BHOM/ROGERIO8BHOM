@@ -15,3 +15,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/rg_forest)
 
 </div>
+---
+
+### `$ whoami`
+
+```text
+Name        : ROGERIO8BHOM
+Role        : Software Engineer / Programmer
+Interests   : Programming, Reverse Engineering, Electronics
+Languages   : JavaScript, C++, Python, SQL
+Focus       : Systems, Automation & Low-Level Programming
