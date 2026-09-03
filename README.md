@@ -24,6 +24,6 @@
 Name        : ROGERIO8BHOM
 Role        : Software Engineer / Programmer
 Interests   : Programming, Reverse Engineering, Electronics
-Languages   : JavaScript, C++, Python, SQL
+Languages   : JavaScript, C#, C++, Python, Lua, SQL
 Focus       : Systems, Automation & Low-Level Programming
 ```
