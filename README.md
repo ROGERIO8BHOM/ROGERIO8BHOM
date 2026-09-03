@@ -29,6 +29,7 @@ Focus       : Systems, Automation & Low-Level Programming
 ```
 ### `$ github profile --info`
 
+```
 > Building things.
 > Breaking things.
 > Understanding how things work.
@@ -38,3 +39,4 @@ Focus       : Systems, Automation & Low-Level Programming
 [+] Automation
 [+] Electronics
 [+] Low-Level Programming
+```
