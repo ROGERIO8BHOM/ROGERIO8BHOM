@@ -41,7 +41,7 @@ Focus       : Systems, Automation & Low-Level Programming
 [+] Low-Level Programming
 ```
 
-### ``
+### `$ cat skills.txt`
 
 ```
 Languages
