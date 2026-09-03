@@ -40,3 +40,25 @@ Focus       : Systems, Automation & Low-Level Programming
 [+] Electronics
 [+] Low-Level Programming
 ```
+
+### ``
+
+```
+Languages
+├── JavaScript
+├── C#
+├── C++
+├── Python
+├── Lua
+└── SQL
+
+Technologies
+├── React
+├── Node.js
+├── Git
+├── MySQL
+└── Arduino
+
+Currently learning
+└── Systems Analysis and Development
+```
