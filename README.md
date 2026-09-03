@@ -18,7 +18,7 @@
 
 
 ![GitHub Profile](https://img.shields.io/badge/%20-Profile-000000?style=flat-square&logo=github&logoColor=ffffff&labelColor=0d1117)
-![GitHub Followers](https://img.shields.io/github/followers/cazzwastaken?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
-![GitHub Stars](https://img.shields.io/github/stars/cazzwastaken?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
+![GitHub Followers](https://img.shields.io/github/followers/ROGERIO8BHOM?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
+![GitHub Stars](https://img.shields.io/github/stars/ROGERIO8BHOM?style=flat-square&color=000000&labelColor=0d1117&logoColor=ffffff)
 
 </div>
