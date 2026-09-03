@@ -65,7 +65,7 @@ Currently learning
 
 ### `$ exit`
 ```
-Thanks for stopping by.
+Thanks for stopping by!
 
 Connection to github.com closed...
 ```
