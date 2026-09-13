@@ -22,7 +22,7 @@
 
 ```text
 Name        : ROGERIO8BHOM
-Role        : Software Engineer / Programmer
+Role        : Programmer
 Interests   : Programming, Reverse Engineering, Electronics
 Languages   : JavaScript, C#, C++, Python, Lua, SQL
 Focus       : Systems, Automation & Low-Level Programming
